@@ -10,8 +10,9 @@ namespace firstapp
     {
         static void Main(string[] args)
         {
+            //this is my first program
             int myValue;
-            myValue = 7;
+            myValue = 10;
             Console.WriteLine("Hello World"+myValue);
             Console.ReadKey();
         }
